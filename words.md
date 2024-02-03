@@ -54,3 +54,7 @@ is it transcendent, or the deepest self-indulgence?
 
 
 space is fundamentally non-linear, you can go in any directions you wish. so why do we require words to be arranged in a linear expression of our being?
+
+
+
+immediate time is linear but there are other parts of our expression of time which are non-linear

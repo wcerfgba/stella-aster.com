@@ -30,7 +30,15 @@ I'm uncertain if they are responding to the change in my facial expression or me
 
 "I don't know... why I am here..."
 
-I answer sincerely before my self-preservation instincts start to kick in. Has this person brought me here? Can I leave?
+The gravity of the words start to wash over me. Why don't I remember? I try to think back, what is the last thing I can recall?
+
+"What is the last thing you can recall?"
+
+Perhaps my brain is made of glass and the voice can see directly into my thoughts. But I don't know, I -
+
+"- can't remember..."
+
+"How do you feel?"
 
 
 

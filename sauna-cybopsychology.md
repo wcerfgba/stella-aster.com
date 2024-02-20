@@ -45,3 +45,17 @@ Perhaps my brain is made of glass and the voice can see directly into my thought
 ----
 
 A partially (de)constructed android or cyborg undergoes a psychological interview in a sauna.
+
+----
+
+The LEDs of the digital billboard flash and illuminate the pavement, as it changes to display another advert:
+
+```
+NEW D-Drone 2050
+
+The new all-purpose security drone from D. **97%ile rated**, blend in seamlessly for wide perimeter operations.
+
+Available from **4100 c**.
+```
+
+The screen shows scenes of humans walking through streets and talking to each other, field test footage for 'wide perimeter operations', interspersed with schematics detailing the droid's defensive and surveillance capabilities. The latest toy/weapon of choice for today's busy plutocrat.

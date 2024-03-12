@@ -23,12 +23,24 @@
               "state": {
                 "file": "anarkink.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e3448379ef7dc155",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bureaucrat.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "anarkink.md",
+            "file": "bureaucrat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "anarkink.md",
+            "file": "bureaucrat.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "anarkink.md"
+            "file": "bureaucrat.md"
           }
         }
       }
@@ -143,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e17a5f396a411fcd",
+  "active": "e3448379ef7dc155",
   "lastOpenFiles": [
+    "computers are supposed to reduce paperwork, not increase it.md",
+    "bureaucrat.md",
+    "relax.md",
     "anarkink.md"
   ]
 }

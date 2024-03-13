@@ -31,11 +31,9 @@
             "id": "e3448379ef7dc155",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "bureaucrat.md",
-                "mode": "source",
-                "source": true
+                "file": "index-draft.html"
               }
             }
           }
@@ -106,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "bureaucrat.md",
+            "file": "index-draft.html",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "bureaucrat.md",
+            "file": "index-draft.html",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "bureaucrat.md"
+            "file": "index-draft.html"
           }
         }
       }
@@ -157,8 +155,10 @@
   },
   "active": "e3448379ef7dc155",
   "lastOpenFiles": [
-    "computers are supposed to reduce paperwork, not increase it.md",
+    "eating-together.md",
+    "lonely-anarchist.md",
     "bureaucrat.md",
+    "computers are supposed to reduce paperwork, not increase it.md",
     "relax.md",
     "anarkink.md"
   ]

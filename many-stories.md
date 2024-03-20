@@ -48,6 +48,7 @@ Plain language!!
   * We make assumptions about stories and situations all the time, both ours and other peoples
     * We need to stop this
       * Can (some) research be conceived as the desire to accurately describe the situation and the linkages between situations and events?
+      * > i announced a name change on a mailing list a while back and someone assumed it was related to gender transition, and i was a bit upset. like, yeah you were right, but just because you have a strong prior doesn't mean you should make assumptions about people?
     * "Indifference to difference"
     * against assumption, generalisation, abstraction. rejecting 'science' and unsituated knowledge
     * researcher as a way of being, naivete

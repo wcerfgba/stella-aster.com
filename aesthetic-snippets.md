@@ -1,1 +1,0 @@
-Mid-evening light streamed through the window, brightly illuminating a slice of the kitchen counter. The old demijohn which had been there for months, shining beams of light and bending and bouncing them in every direction. The crumbs and cup rings around the kettle are more obvious now, naked in the powerful gaze of the sun.

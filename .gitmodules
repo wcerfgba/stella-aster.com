@@ -1,0 +1,3 @@
+[submodule "clara"]
+	path = clara
+	url = git@github.com:wcerfgba/clara.git

@@ -18,10 +18,12 @@
 
 .flex-2 {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .flex-2 > * {
   margin: 1rem;
+  flex: 1 1;
 }
 
 figcaption {
@@ -59,7 +61,7 @@ body {
 @media (max-width: 600px) {
   body {
     font-size: 0.9em;
-    padding: 12px;
+    padding: 4rem 1rem;
   }
   h1 {
     font-size: 1.8em;
@@ -83,7 +85,7 @@ body {
   }
 }
 p {
-  margin: 1em -1em 1em 1em;
+  margin: 1em 0em 1em 1em;
 }
 a {
   color: #1a1a1a;

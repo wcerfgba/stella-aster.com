@@ -13,11 +13,11 @@ I'm **Stella Aster&nbsp;✨**, a socially engaged creative practicioner from Ley
 
 
 
-I'm currently working on a number of projects, most of which are focused on my home of Central Lancashire:
+I'm currently working on a number of projects, most of which are focused on my home of [Central Lancashire, an urban area roughly centred on the Bamber Bridge Interchange](https://www.openstreetmap.org/?mlat=53.7154&mlon=-2.6613#map=12/53.7154/-2.6613):
 
 - The **Central Lancashire End Weight Stigma** project aims to dismantle weight stigma in healthcare within Central Lancashire. I am founding and caretaking this project as part of my PhD studies at Leeds Beckett University.
 
-- I'm building a **'communities and cultures' map of Central Lancashire**. I'm currently having a lot of conversations so I can produce a 'Version 1' I can share publicly.
+- I'm building a **'communities and cultures' map of Central Lancashire**. I'm currently having a lot of conversations so I can produce an initial version to share publicly.
 
 - I'm running a survey on [**funding opportunities available to individuals and small groups in Central Lancashire**](https://docs.google.com/forms/d/e/1FAIpQLSe0F6q5CbDGJKjWwzNzRyeHnCDCnHU8G5ePHPvuAea1E7lXwg/viewform). Please fill this in if you know of any, and pass it on to someone else!
 

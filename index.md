@@ -44,4 +44,4 @@ Some of the other things I've been working on recently include:
 If you would like to support me and my work, please get in touch! I am eager to hear from people and to find opportunities to work together 😊
 
 Sincerely,  
-Stella ✨ <small>\<hello@stella-aster.com\></small>  
+[Stella ✨ <small>\<hello@stella-aster.com\></small>](mailto:Stella ✨ <hello@stella-aster.com>)  

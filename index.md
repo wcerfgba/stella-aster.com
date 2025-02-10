@@ -1,3 +1,12 @@
+
+<style>
+header { display: none; }
+figcaption { font-size: small; }
+p { margin: 3em 0; }
+figure { margin: 3em 2em; }
+</style>
+
+
 I'm **Stella Aster&nbsp;✨**, a socially engaged creative practicioner from Leyland,&nbsp;Central Lancashire. My work looks at how art, social research, and activism can be used to support local communities and cultures.
 
 ![A selfie I took in a pub in Wigan in January 2025. I'm looking at the camera and smiling, wearing my large round glasses and a multicoloured dress.](20250111_171859.jpg)
@@ -36,11 +45,3 @@ If you would like to support me and my work, please get in touch! I am eager to 
 
 Sincerely,  
 Stella ✨ <small>\<hello@stella-aster.com\></small>  
-
-
-<style>
-header { display: none; }
-figcaption { font-size: small; }
-p { margin: 3em 0; }
-figure { margin: 3em 2em; }
-</style>

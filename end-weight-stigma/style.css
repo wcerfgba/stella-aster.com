@@ -27,9 +27,12 @@
 }
 
 figcaption {
-  display: none;
+  font-size: small;
 }
 
+figure {
+  margin: 2em 0;
+}
 
 
 
@@ -91,7 +94,7 @@ body {
   .pagebreak { page-break-before: always; }
 }
 p {
-  margin: 1em 0em 1em 1em;
+  margin: 2em 0;
 }
 a {
   color: #1a1a1a;
@@ -99,8 +102,10 @@ a {
 a:visited {
   color: #1a1a1a;
 }
-img {
-  max-width: 18em /*50%;*/
+figure > img {
+  max-width: 100%;
+  display: block;
+  margin: 1em auto;
 }
 svg {
   height: auto;
@@ -124,7 +129,7 @@ li > ol, li > ul {
   margin-top: 0;
 }
 blockquote {
-  margin: 1em 0 1em 1.7em;
+  margin: 2em 0 2em 1.7em;
   padding-left: 1em;
   border-left: 2px solid #e6e6e6;
   color: #606060;

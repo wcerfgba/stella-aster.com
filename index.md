@@ -15,6 +15,8 @@ I'm **Stella Aster&nbsp;✨**, a socially engaged creative practicioner from Ley
 
 I'm currently working on a number of projects, most of which are focused on my home of [Central Lancashire, an urban area roughly centred on the Bamber Bridge Interchange](https://www.openstreetmap.org/?mlat=53.7154&mlon=-2.6613#map=12/53.7154/-2.6613):
 
+- I maintain the [**Central Lancashire Homepage**](https://centrallancashire.co.uk/) which provides free mailing list hosting for people in Central Lancashire.
+
 - The [**Central Lancashire End Weight Stigma**](https://stella-aster.com/end-weight-stigma) project aims to dismantle weight stigma in healthcare within Central Lancashire. I am founding and caretaking this project as part of my PhD studies at Leeds Beckett University.
 
 - I'm building a **'communities and cultures' map of Central Lancashire**. I'm currently having a lot of conversations so I can produce an initial version to share publicly.
@@ -29,11 +31,13 @@ I'm currently working on a number of projects, most of which are focused on my h
 
 - I help facilitate the **Leyland Trans Group**&nbsp;🏳️‍⚧️
 
+- I'm a member of the Bookings team at **St. Mary's Community Centre, Leyland**.
+
 
 
 Some of the other things I've been working on recently include:
 
-- [**Music by Belisha beacons**](https://music-by-belisha-beacons.co.uk/), where I turned zebra crossing beacons into musicians. The piece was covered in [Blog Preston](https://www.blogpreston.co.uk/2024/12/new-living-data-music-piece-by-leyland-artist-stars-two-sets-of-belisha-beacons/) and the Lancashire Post. I'm aiming to deliver an installation sometime in 2025.
+- [**Music by Belisha beacons**](https://music-by-belisha-beacons.co.uk/), where I turned zebra crossing beacons into musicians. The piece has been covered by [Blog Preston](https://www.blogpreston.co.uk/2024/12/new-living-data-music-piece-by-leyland-artist-stars-two-sets-of-belisha-beacons/), the Lancashire Post, and [Shots! TV](https://www.shotstv.com/watch/vod/52781280). I'm aiming to deliver an installation sometime in 2025.
 
 - I perform **poetry** at events across Central Lancashire, and I run the [**Central Lancashire Spoken Word WhatsApp channel**](https://whatsapp.com/channel/0029Vb3z0ASJP210e0AEI21V) to keep people updated about events in Preston, Leyland, Chorley, and beyond&nbsp;😊 My poetry has also been published in [Pressed Town](https://www.instagram.com/pressedtown/){target="_blank"} and is currently due for publication in some other places!
 

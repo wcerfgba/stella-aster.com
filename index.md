@@ -17,7 +17,7 @@ I'm currently working on a number of projects, most of which are focused on my h
 
 - I maintain the [**Central Lancashire Homepage**](https://centrallancashire.co.uk/) which provides free mailing list hosting for people in Central Lancashire.
 
-- The [**Central Lancashire End Weight Stigma**](https://stella-aster.com/end-weight-stigma) project aims to dismantle weight stigma in healthcare within Central Lancashire. I am founding and caretaking this project as part of my PhD studies at Leeds Beckett University.
+- The [**Central Lancashire End Weight Stigma**](https://centrallancashire.co.uk/endweightstigma) project aims to dismantle weight stigma in healthcare within Central Lancashire. I am founding and caretaking this project as part of my PhD studies at Leeds Beckett University.
 
 - I'm building a **'communities and cultures' map of Central Lancashire**. I'm currently having a lot of conversations so I can produce an initial version to share publicly.
 
